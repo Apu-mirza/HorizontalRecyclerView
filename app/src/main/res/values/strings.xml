@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">HorizontalRecyclerView</string>
+
+    <string-array name="country_names">
+
+        <item>Afghanistan</item>
+        <item>Armenia</item>
+        <item>Azerbaijan</item>
+        <item>Bahrain</item>
+        <item>Bangladesh</item>
+        <item>Bhutan</item>
+        <item>Bolivia</item>
+        <item>China</item>
+        <item>Croatia</item>
+        <item>Denmark</item>
+        <item>Finland</item>
+        <item>Greenland</item>
+        <item>India</item>
+        <item>Pakistan</item>
+        <item>Nepal</item>
+        <item>London</item>
+        <item>Malaysia</item>
+
+    </string-array>
+
+    <string-array name="country_details">
+
+        <item>Afghanistan,[c] officially the Islamic Emirate of Afghanistan,[d] is a landlocked country</item>
+        <item>Armenia is a nation, and former Soviet republic, in the mountainous Caucasus region between Asia and Europe</item>
+        <item>Azerbaijan, the nation and former Soviet republic, is bounded by the Caspian Sea and Caucasus Mountains, which span Asia and Europe.</item>
+        <item>Bahrain, officially the Kingdom of Bahrain, is an island country in Western Asia.</item>
+        <item>Bangladesh, to the east of India on the Bay of Bengal, is a South Asian country marked by lush greenery and many waterways.</item>
+        <item>Bhutan officially the Kingdom of Bhutan, is a landlocked country in South Asia.</item>
+        <item>Bolivia is a country in central South America, with a varied terrain spanning Andes Mountains, the Atacama Desert and Amazon Basin rainforest</item>
+        <item>China, officially the Peoples Republic of China, is a country in East Asia.</item>
+        <item>Croatia, officially the Republic of Croatia, is a country at the crossroads of Central and Southeast Europe.</item>
+        <item>Denmark is a Scandinavian country comprising the Jutland Peninsula and numerous islands</item>
+        <item>Finland is a Northern European nation bordering Sweden, Norway and Russia.</item>
+        <item>Greenland is an island country in North America that is part of the Kingdom of Denmark.</item>
+        <item>India, officially the Republic of India, is a country in South Asia.</item>
+        <item>Pakistan, officially the Islamic Republic of Pakistan (Urdu: اِسلامی جمہوریہ پاکِستان) is a country in South Asia</item>
+        <item>Nepal is a multi-ethnic, multi-lingual, multi-religious and multi-cultural state, with Nepali as the official language</item>
+        <item>London, the capital of England and the United Kingdom, is a 21st-century city with history stretching back to Roman times</item>
+        <item>Malaysia is a Southeast Asian country occupying parts of the Malay Peninsula and the island of Borneo.</item>
+    </string-array>
+
+</resources>
